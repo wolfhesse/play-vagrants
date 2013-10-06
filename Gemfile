@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'vagrant'
+#deprecated gem 'vagrant'
 
